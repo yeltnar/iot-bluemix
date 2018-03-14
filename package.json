@@ -1,0 +1,22 @@
+{
+  "name": "iot_bm",
+  "version": "1.0.0",
+  "description": "bm ap",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeltnar/iot-bluemix.git"
+  },
+  "author": "Andrew Brantley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeltnar/iot-bluemix/issues"
+  },
+  "homepage": "https://github.com/yeltnar/iot-bluemix#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
